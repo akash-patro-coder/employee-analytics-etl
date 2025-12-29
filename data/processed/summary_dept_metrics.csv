@@ -1,0 +1,6 @@
+department_id,department_name,total_employees,avg_salary,active_projects,total_budget
+101,Engineering,6.0,54333.33,0.0,0.0
+102,Sales,6.0,59333.33,0.0,0.0
+103,Product,5.0,97600.0,0.0,0.0
+104,Marketing,5.0,97200.0,0.0,0.0
+105,Operations,0.0,,0.0,0.0

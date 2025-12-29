@@ -1,0 +1,26 @@
+employee_id,name,department_id,salary,hire_date,manager_id,bonus_eligible,status
+1,Rajesh Kumar,101,75000,2021-03-15,,Y,active
+2,Priya Sharma,102,85000,2020-07-22,1,Y,active
+3,Amit Patel,101,65000,2022-01-10,1,Y,active
+4,Sneha Reddy,103,95000,2019-11-05,,Y,active
+5,Vikram Singh,102,72000,2023-02-14,2,N,active
+6,Ananya Gupta,104,110000,2018-06-30,,Y,active
+7,Rohan Mehta,101,48000,2021-09-18,1,Y,active
+8,Kavya Iyer,103,105000,2020-04-25,4,Y,active
+9,Arjun Nair,102,52000,2022-08-12,2,Y,active
+10,Meera Joshi,104,95000,2021-12-03,6,Y,active
+11,Sanjay Desai,101,45000,2023-05-20,1,N,active
+12,Divya Kapoor,105,0,2023-09-01,,N,inactive
+13,Karthik Rao,103,110000,2019-08-17,4,Y,active
+14,Pooja Agarwal,102,48000,2022-03-28,2,Y,active
+15,Nikhil Verma,104,68000,2020-10-11,6,Y,active
+16,Ritu Malhotra,101,46000,2021-07-06,1,Y,active
+17,Aditya Bose,105,0,2023-11-15,,N,inactive
+18,Shruti Pandey,103,70000,2020-01-30,4,Y,active
+19,Manish Ghosh,102,49000,2023-04-19,2,N,active
+20,Tanvi Shah,104,115000,2019-03-22,6,Y,active
+21,Rahul Chatterjee,,62000,2022-11-08,,Y,active
+22,Lakshmi Menon,103,108000,2020-06-14,4,Y,active
+23,Varun Saxena,101,47000,2023-07-25,1,N,active
+24,Nisha Kulkarni,102,50000,2022-05-09,2,Y,active
+25,Akash Sinha,104,98000,2021-02-17,6,Y,active

@@ -1,0 +1,24 @@
+employee_id,name,department_name,avg_rating,review_count,latest_rating,latest_review_date
+1,Rajesh Kumar,Engineering,,0,,
+2,Priya Sharma,Sales,4.5,1,4.5,2023-06-15
+3,Amit Patel,Engineering,3.95,2,4.1,2024-06-20
+4,Sneha Reddy,Product,,0,,
+5,Vikram Singh,Sales,4.35,2,4.5,2024-07-10
+6,Ananya Gupta,Marketing,,0,,
+7,Rohan Mehta,Engineering,4.0,1,4.0,2023-06-18
+8,Kavya Iyer,Product,4.85,2,4.9,2024-07-05
+9,Arjun Nair,Sales,3.75,2,4.0,2024-07-12
+10,Meera Joshi,Marketing,4.45,2,4.6,2024-06-25
+11,Sanjay Desai,Engineering,,0,,
+13,Karthik Rao,Product,4.6,1,4.6,2023-07-08
+14,Pooja Agarwal,Sales,3.9,1,3.9,2023-07-15
+15,Nikhil Verma,Marketing,4.1,1,4.1,2023-06-30
+16,Ritu Malhotra,Engineering,3.7,1,3.7,2023-06-22
+18,Shruti Pandey,Product,4.4,1,4.4,2023-07-03
+19,Manish Ghosh,Sales,,0,,
+20,Tanvi Shah,Marketing,,0,,
+21,Rahul Chatterjee,Unknown,,0,,
+22,Lakshmi Menon,Product,4.7,1,4.7,2023-07-20
+23,Varun Saxena,Engineering,,0,,
+24,Nisha Kulkarni,Sales,4.0,1,4.0,2023-07-18
+25,Akash Sinha,Marketing,4.5,1,4.5,2023-06-28

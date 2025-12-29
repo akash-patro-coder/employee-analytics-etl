@@ -1,0 +1,6 @@
+department_id,department_name,location,budget,manager_id
+101,Engineering,Bangalore,5000000,1.0
+102,Sales,Mumbai,3500000,2.0
+103,Product,Pune,4200000,4.0
+104,Marketing,Delhi,3000000,6.0
+105,Operations,Hyderabad,2800000,

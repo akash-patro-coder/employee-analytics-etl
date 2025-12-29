@@ -1,0 +1,24 @@
+2025-12-29 11:33:49,355 - INFO - main - === ETL PIPELINE EXECUTION STARTED ===
+2025-12-29 11:33:49,356 - INFO - main - >>> PHASE 1: EXTRACTION STARTED
+2025-12-29 11:33:49,356 - INFO - main - Extraction Phase Completed (Files verified)
+2025-12-29 11:33:49,356 - INFO - main - >>> PHASE 2: TRANSFORMATION STARTED
+2025-12-29 11:33:49,394 - INFO - main - Transformation finished in 0.04 seconds
+2025-12-29 11:33:49,394 - INFO - main - >>> PHASE 3: VALIDATION STARTED
+2025-12-29 11:33:49,401 - INFO - main - All Data Validation Checks Passed.
+2025-12-29 11:33:49,402 - INFO - main - >>> PHASE 4: LOADING STARTED
+2025-12-29 11:33:49,489 - INFO - __init__ - package: mysql.connector.plugins
+2025-12-29 11:33:49,490 - INFO - __init__ - plugin_name: caching_sha2_password
+2025-12-29 11:33:49,490 - INFO - __init__ - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-12-29 11:33:49,491 - INFO - __init__ - package: mysql.connector.plugins
+2025-12-29 11:33:49,491 - INFO - __init__ - plugin_name: mysql_native_password
+2025-12-29 11:33:49,492 - INFO - __init__ - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-12-29 11:33:49,540 - INFO - main - Loaded dim_departments into MySQL
+2025-12-29 11:33:49,589 - INFO - main - Loaded dim_employees into MySQL
+2025-12-29 11:33:49,642 - INFO - main - Loaded fact_performance_reviews into MySQL
+2025-12-29 11:33:49,692 - INFO - main - Loaded fact_project_assignments into MySQL
+2025-12-29 11:33:49,720 - INFO - main - Loaded summary_dept_metrics into MySQL
+2025-12-29 11:33:49,753 - INFO - main - Loaded summary_emp_performance into MySQL
+2025-12-29 11:33:49,754 - INFO - main - Creating Indexes...
+2025-12-29 11:33:49,757 - INFO - main - Loading finished in 0.35 seconds
+2025-12-29 11:33:49,758 - INFO - main - === ETL PIPELINE COMPLETED SUCCESSFULLY ===
+2025-12-29 11:33:49,758 - INFO - main - Total Execution Time: 0.40 seconds

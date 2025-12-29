@@ -1,0 +1,24 @@
+employee_id,name,department_id,salary,hire_date,status,bonus_eligible,tenure_years,salary_bucket
+1,Rajesh Kumar,101,75000,2021-03-15,active,1,4.8,Medium
+2,Priya Sharma,102,85000,2020-07-22,active,1,5.4,High
+3,Amit Patel,101,65000,2022-01-10,active,1,4.0,Medium
+4,Sneha Reddy,103,95000,2019-11-05,active,1,6.1,High
+5,Vikram Singh,102,72000,2023-02-14,active,0,2.9,Medium
+6,Ananya Gupta,104,110000,2018-06-30,active,1,7.5,High
+7,Rohan Mehta,101,48000,2021-09-18,active,1,4.3,Low
+8,Kavya Iyer,103,105000,2020-04-25,active,1,5.7,High
+9,Arjun Nair,102,52000,2022-08-12,active,1,3.4,Medium
+10,Meera Joshi,104,95000,2021-12-03,active,1,4.1,High
+11,Sanjay Desai,101,45000,2023-05-20,active,0,2.6,Low
+13,Karthik Rao,103,110000,2019-08-17,active,1,6.4,High
+14,Pooja Agarwal,102,48000,2022-03-28,active,1,3.8,Low
+15,Nikhil Verma,104,68000,2020-10-11,active,1,5.2,Medium
+16,Ritu Malhotra,101,46000,2021-07-06,active,1,4.5,Low
+18,Shruti Pandey,103,70000,2020-01-30,active,1,5.9,Medium
+19,Manish Ghosh,102,49000,2023-04-19,active,0,2.7,Low
+20,Tanvi Shah,104,115000,2019-03-22,active,1,6.8,High
+21,Rahul Chatterjee,-1,62000,2022-11-08,active,1,3.1,Medium
+22,Lakshmi Menon,103,108000,2020-06-14,active,1,5.5,High
+23,Varun Saxena,101,47000,2023-07-25,active,0,2.4,Low
+24,Nisha Kulkarni,102,50000,2022-05-09,active,1,3.6,Medium
+25,Akash Sinha,104,98000,2021-02-17,active,1,4.9,High
