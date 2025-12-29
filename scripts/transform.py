@@ -132,8 +132,15 @@ def create_dept_summary(emp_df, proj_df, dept_df):
     final_df = summary.merge(emp_stats, on='department_id', how='left')
     final_df = final_df.merge(proj_stats, on='department_id', how='left')
 
-    # Fill NaNs
-    final_df = final_df.fillna({'total_employees': 0, 'active_projects': 0, 'total_budget': 0})
+    # FIX: Explicitly infer types before filling to silence FutureWarning
+    pd.set_option('future.no_silent_downcasting', True) # Optional safety
+    final_df = final_df.infer_objects(copy=False)
+
+    # Now fill NaNs and Enforce Types
+    final_df['total_employees'] = final_df['total_employees'].fillna(0).astype(int)
+    final_df['active_projects'] = final_df['active_projects'].fillna(0).astype(int)
+    final_df['total_budget'] = final_df['total_budget'].fillna(0.0).astype(float)
+
     if 'avg_salary' in final_df.columns:
         final_df['avg_salary'] = final_df['avg_salary'].round(2)
         
